@@ -1,9 +1,3 @@
-# RRBOT
-
-Make reservations for a restaurant 
-
-This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
-
 ## Prerequisites
 
 - [Node.js](https://nodejs.org) version 10.14.1 or higher
